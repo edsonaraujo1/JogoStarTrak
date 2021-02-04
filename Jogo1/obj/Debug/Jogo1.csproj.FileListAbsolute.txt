@@ -1,0 +1,10 @@
+C:\Users\utyum\source\repos\Jogo1\Jogo1\bin\Debug\Jogo1.exe.config
+C:\Users\utyum\source\repos\Jogo1\Jogo1\bin\Debug\Jogo1.exe
+C:\Users\utyum\source\repos\Jogo1\Jogo1\bin\Debug\Jogo1.pdb
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.csprojAssemblyReference.cache
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.Form1.resources
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.Properties.Resources.resources
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.csproj.GenerateResource.cache
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.csproj.CoreCompileInputs.cache
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.exe
+C:\Users\utyum\source\repos\Jogo1\Jogo1\obj\Debug\Jogo1.pdb
